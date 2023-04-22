@@ -1,0 +1,34 @@
+
+main {
+    height: 100vh;
+    margin: auto 5%;
+
+    div {
+        margin: 18vh 0;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    .homeText {
+        p {
+            color: #5E6A76;
+            font-size: 20px;
+        }
+
+        h1 {
+            color: #131D30;
+            font-size: 60px;
+            font-weight: bolder;
+            font-family: "Montserrat", sans-serif;
+        }
+
+        h2 {
+            color: #B8B8AF;
+            font-size: 60px;
+            font-weight: bolder;
+            font-family: "Montserrat", sans-serif;
+        }
+    }
+}
