@@ -93,28 +93,29 @@ main div {
 }
 main .homeText p {
   color: #5E6A76;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 main .homeText h1 {
   margin-top: 1rem;
   color: #131D30;
   font-size: 3rem;
-  font-weight: 700;
+  font-weight: bold;
   font-family: "Montserrat", sans-serif;
 }
 main .homeText h2 {
   color: #B8B8AF;
   font-size: 3rem;
-  font-weight: 700;
+  font-weight: bold;
   font-family: "Montserrat", sans-serif;
   margin-bottom: 1rem;
 }
 
 .aboutme {
   margin: auto 1rem;
-  margin-bottom: 4rem;
+  margin-bottom: 10rem;
 }
 .aboutme h3 {
+  font-weight: bold;
   font-size: 2rem;
   color: #131D30;
   margin-bottom: 2rem;
@@ -128,8 +129,11 @@ main .homeText h2 {
 }
 .aboutme p {
   color: #5E6A76;
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin-top: 2rem;
+}
+.aboutme p span {
+  font-weight: 600;
 }
 
 @media screen and (min-width: 1025px) {
