@@ -1,17 +1,25 @@
 .aboutme {
 
+    margin: auto 1rem;
+    margin-bottom: 4rem;
+
     h3 {
-        font-size: 32px;
+        font-size: 2rem;
         color: #131D30;
+        margin-bottom: 2rem;
     }
+
     img {
-        width: 200px;
+        width: 10rem;
         height: auto;
         border-radius: 100%;
+        display: block;
+        margin: auto;
     }
 
     p {
         color: #5E6A76;
-        font-size: 20px;
+        font-size: 1rem;
+        margin-top: 2rem;
     }
 }
