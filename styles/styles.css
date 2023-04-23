@@ -85,7 +85,7 @@ header nav ul li a li a.activate {
 }
 
 main {
-  height: 100vh;
+  height: 90vh;
   margin: auto 1rem;
 }
 main div {
@@ -134,6 +134,28 @@ main .homeText h2 {
 }
 .aboutme p span {
   font-weight: 600;
+}
+
+.formacion {
+  margin: auto 1rem;
+  margin-bottom: 10rem;
+}
+.formacion h3 {
+  font-weight: bold;
+  font-size: 2rem;
+  color: #131D30;
+  margin-bottom: 2rem;
+}
+
+.proyectos {
+  margin: auto 1rem;
+  margin-bottom: 10rem;
+}
+.proyectos h3 {
+  font-weight: bold;
+  font-size: 2rem;
+  color: #131D30;
+  margin-bottom: 2rem;
 }
 
 @media screen and (min-width: 1025px) {
